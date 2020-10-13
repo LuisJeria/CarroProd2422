@@ -5,4 +5,7 @@
     <dimen name="margin_left_titulo">30dp</dimen>
     <dimen name="nombre_prod">30sp</dimen>
     <dimen name="margin_left_prod">30dp</dimen>
+    <dimen name="pading_prod">30dp</dimen>
+    <dimen name="tamanio_des_prod">20sp</dimen>
+    <dimen name="margin_top_prod">20dp</dimen>
 </resources>

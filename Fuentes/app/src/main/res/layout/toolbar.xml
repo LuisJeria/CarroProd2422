@@ -20,6 +20,7 @@
 
         </ImageView>
         <TextView
+            android:id="@+id/titulo_toolbar_txt"
             android:layout_gravity="center"
             android:text="@string/shopping_app"
             android:textSize="@dimen/tamanio_titulo_app"
